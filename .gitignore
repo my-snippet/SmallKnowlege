@@ -1,3 +1,6 @@
 # Virtual Env
 **/venv/
 .env
+
+# state file
+*.swp
