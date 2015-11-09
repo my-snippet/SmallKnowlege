@@ -48,7 +48,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'ShortKnowledge'
+project = u'SmallKnowledge'
 copyright = u'2015, wikibootup'
 author = u'wikibootup'
 
