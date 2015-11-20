@@ -1,7 +1,7 @@
 Software
 ========
 
-**1. Command Customization**
+**1. Avoid much customization**
   
 Do customize if a case satisfies at least one of the following cases. 
 
