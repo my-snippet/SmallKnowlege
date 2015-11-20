@@ -17,5 +17,5 @@ If not, keep the default state. Because You will forget all of your customizatio
 - And then, Merge each works
 - Finally, Apply the works to a high level
 
-For example, if I want to implement some partial features, Don't initialize a heavy framework.
-Do Implement it in a light level instead.
+For example, if I want to implement some partial GUI features, Don't initialize a heavy framework.
+Do Implement it in a light library instead.
