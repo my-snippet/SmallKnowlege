@@ -30,7 +30,7 @@ Technic < Basic
 Complex < Various
 
 
-**The level of concentration**
+**4. The level of concentration**
 
 1. glance at
 2. dive into
