@@ -22,6 +22,7 @@ Do Implement it in a light library instead.
 
 
 **3. Technic < Basic**
+
 Sometimes, You may want to look cool to others. Or you may desire to accomplish a difficult task. 
 
 But, remember the priority
