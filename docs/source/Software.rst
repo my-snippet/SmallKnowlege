@@ -31,6 +31,7 @@ Complex < Various
 
 
 **The level of concentration**
+
 1. glance at
 2. dive into
 3. dig into
