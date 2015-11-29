@@ -27,3 +27,11 @@ Sometimes, You may want to look cool to others. Or you may desire to accomplish 
 But, remember the priority
 Technic < Basic
 Complex < Various
+
+
+**The level of concentration**
+1. glance at
+2. dive into
+3. dig into
+
+You must go to the 'dig into' level in order to create something.
