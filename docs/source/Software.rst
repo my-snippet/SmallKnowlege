@@ -37,3 +37,10 @@ Complex < Various
 3. dig into
 
 You must go to the 'dig into' level in order to create something.
+
+**5. Don't memorize**
+
+This is not to say that there is no need to remember.
+
+Just,
+By memorizing memory < By Understanding, Applying, Practicing memory far more useful and natural.
